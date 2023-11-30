@@ -1,0 +1,164 @@
+Shaheen Cambridge School	
+Block A
+matric
+123456789
+Ghulaman-e-Abbas School	
+Block C
+matric
+123456710
+Al Huda School 
+Block B 
+matric
+123456786
+Saeeda's Foundation School	
+Block D
+matric
+123456788
+Al-Khaliq Academy
+Block E
+matric
+123456787
+Adamjee Grammar School	
+Block F
+matric
+123456777
+Shaheen Cambridge School
+Block G
+matric
+123456785
+Saeeda's Foundation School
+Block H
+matric
+123654789
+Al-Khaliq Academy
+Block I
+matric
+132456789
+Adler College for Girls	
+Block J
+matric
+123456987
+AES School for Girls
+Block K
+matric
+123654987
+Saeeda's Foundation School
+Block L
+inter
+132546879
+ACE School	
+Block M
+inter
+366447888
+Afshan Public School
+Block N
+inter
+366447899
+Akbar Public School
+Block P
+inter
+366447777
+Cedar College
+Block Q
+O level 
+366554478
+Generation's School
+Block R
+O level 
+366998877
+Falconhouse Grammar School
+Block S
+O level 
+366789654
+Karachi Grammar School
+Block T
+O level 
+366123789
+The City School
+Block X
+O level 
+258369147
+The Lyceum School	
+Block Y
+O level
+147258369
+VonHayat Senior School	
+Block Z
+O level
+258147369
+Usman public School
+Block 1
+O level
+654852369
+White House Grammar School
+Block 2
+O level
+951159951
+Beaconhouse School System
+Block 3
+O level
+357753357
+Elixor school
+Block 4
+O level
+258951357
+Beaconhouse College Campus
+Block 5
+A level
+852741693
+Bay View High School	
+Block 6
+A level
+879546213
+Habib Public School	
+Block 7
+A level
+546987213
+Cedar College	
+Block 8
+A level
+555555555
+BVS Parsi High School	
+Block 9
+A level
+111111111
+Convent of Jesus and Mary	
+Block 10
+A level
+222222222
+Cordoba School for A-levels	
+Block 11
+A level
+333333333
+DA Public School	
+Block 12
+A level
+444444444
+DM School System	
+Block 13
+A level
+666666666
+Education Bay School
+Block 14
+A level
+777777777
+Foundation Public School
+Block 15
+A level
+888888888
+The Coleshill College
+Block 16
+A level
+999999999
+Ilmesters Academy	
+Block 18
+A level
+582693741
+Kaizen College For A-Level	
+Block 21
+A level
+212212215
+Afnan foundation college
+Block 23
+inter 
+555666786
